@@ -1,7 +1,3 @@
-# Hi, I'm Mohamed Jaber 👋
-
-Aspiring software engineer with a cybersecurity background.
-
 ## 🚀 About Me
 - 💻 Software Engineer
 - 🌐 Full-Stack Development • Cybersecurity • Cloud • DevOps
