@@ -7,7 +7,7 @@ Aspiring software engineer with a cybersecurity background.
 - 🌐 Full-Stack Development • Cybersecurity • Cloud • DevOps
 - 📚 Always learning and exploring new technologies
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
