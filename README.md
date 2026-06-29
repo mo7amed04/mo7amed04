@@ -1,5 +1,4 @@
 ## 🚀 About Me
-- 💻 Software Engineer
 - 🌐 Full-Stack Development • Cybersecurity • Cloud • DevOps
 - 📚 Always learning and exploring new technologies
 
